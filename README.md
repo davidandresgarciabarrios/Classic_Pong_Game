@@ -21,7 +21,7 @@ Relive the nostalgic experience of Pong with this Python implementation. Control
    - Move Up: Press `Up Arrow`
    - Move Down: Press `Down Arrow`
   
-     ![image](https://github.com/user-attachments/assets/b93a81e7-be6d-410c-9b04-ce682977de86)
+     ![image](https://github.com/user-attachments/assets/102a5412-d0df-4cff-97cb-c6c4af7c1bcb)
 
 
 ## 🛠️ Installation
